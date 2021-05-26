@@ -4,7 +4,7 @@
 
 <!-- badges: end -->
 
-O Objetivo deste trabalho é calcular a Meta 1 do Plano Nacional de Edução, que por sua vez, está diviida em dois indicadores. São eles:
+O Objetivo deste trabalho é calcular a Meta 1 do Plano Nacional de Educação, que por sua vez, está diviida em dois indicadores. São eles:
 
 ## Indicador 1B
 
